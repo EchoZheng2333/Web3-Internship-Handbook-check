@@ -100,7 +100,7 @@ createTime: '2025/06/12 00:30:37'
     - 与团队合作，定义智能合约的功能需求，并根据需求设计合适的智能合约架构。
     - 部署智能合约至区块链网络（如以太坊、Polygon、Arbitrum、Base 等），并确保合约的高效执行。
     - 编写智能合约的单元测试，进行代码审计与安全性测试，确保合约代码无漏洞，避免潜在的安全风险。
-    - 优化智能合约性能，减少 Gas 费用，提升交易处理速度。
+    - 优化智能合约性能，减少 Gas 费用。
     - 研究和应用最新的区块链技术和智能合约最佳实践，推动技术的持续进步。
     - 与前端和后端开发团队紧密协作，确保智能合约与其他系统组件的顺畅集成。
     - 为团队成员提供智能合约相关的技术支持和指导，推动团队的技术提升。
@@ -124,6 +124,7 @@ createTime: '2025/06/12 00:30:37'
     - Remix
     - Foundry / Hardhat
     - Phalcon / Tenderly
+    - Yul
     ```
 
 :::
@@ -212,9 +213,11 @@ createTime: '2025/06/12 00:30:37'
 - [电鸭社区](https://eleduck.com/) - 中文，远程工作者社区
 - [Web3Career](https://web3.career/) - 英文，专业的 Web3 招聘平台
 - [CryptoJobs](https://crypto.jobs/) - 英文，区块链行业招聘信息
+- [The Ethereum Season of Internships](https://nxbn.ethereum.foundation/internships) - 英文，以太坊实习季
+- [Ethereum Job Board](https://www.ethereumjobboard.com/) - 英文，ETH 旗舰项目招聘板
 
 ## ::ep:avatar /#32b2f0:: 文章贡献者
 
-作者：[吃汤圆](https://x.com/web3_cty)
-排版：[Echo](https://x.com/Echo_liuchan)
+作者：[吃汤圆](https://x.com/web3_cty), [segment7](https://x.com/segseven)  
+排版：[Echo](https://x.com/Echo_liuchan)  
 校对：[Bruce](https://x.com/brucexu_eth)
